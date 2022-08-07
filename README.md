@@ -410,7 +410,7 @@ I, VR y VL, son ondas de forma sinusoidal.
 
 4. Video
 
-Link del video:
+Link del video: https://www.youtube.com/watch?v=FcGbtsf-SdI&ab_channel=CristopherPaida
 
 5. Conclusiones
 
@@ -423,26 +423,3 @@ Link del video:
 Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. México: Pearson Educación.
 
 Khan Academy. (8 de Abril de 2022). Khan Academy. Obtenido de https://es.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex/x2ec2f6f830c9fb89:complex-num/a/intro-to-complex-numbers
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
